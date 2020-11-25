@@ -1,0 +1,257 @@
+{
+    "id": 38443,
+    "fightStatus": 5,
+    "winnerId": 907,
+    "rounds": [{
+            "id": 614999,
+            "challengerActions": [
+                { "id": 3676714, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676715, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676716, "attackArea": "belly", "isAttack": 1 }
+            ],
+            "opponentActions": [
+                { "id": 3676717, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676718, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676719, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "challengerScores": 14,
+            "opponentScores": 18,
+            "seqNo": 1
+        },
+        {
+            "id": 615000,
+            "challengerActions": [
+                { "id": 3676720, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676721, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676722, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676723, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676724, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676725, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "challengerScores": 6,
+            "opponentScores": 8,
+            "seqNo": 2
+        },
+        {
+            "id": 615001,
+            "challengerActions": [
+                { "id": 3676726, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676727, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676728, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676729, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676730, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676731, "attackArea": "belly", "isAttack": 0 }
+            ],
+            "challengerScores": 10,
+            "opponentScores": 12,
+            "seqNo": 3
+        },
+        {
+            "id": 615002,
+            "challengerActions": [
+                { "id": 3676732, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676733, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676734, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676735, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676736, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676737, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "challengerScores": 16,
+            "opponentScores": 12,
+            "seqNo": 4
+        },
+        {
+            "id": 615003,
+            "challengerActions": [
+                { "id": 3676738, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676739, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676740, "attackArea": "belly", "isAttack": 1 }
+            ],
+            "opponentActions": [
+                { "id": 3676741, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676742, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676743, "attackArea": "belly", "isAttack": 0 }
+            ],
+            "challengerScores": 10,
+            "opponentScores": 18,
+            "seqNo": 5
+        },
+        {
+            "id": 615004,
+            "challengerActions": [
+                { "id": 3676744, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676745, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676746, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676747, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676748, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676749, "attackArea": "belly", "isAttack": 0 }
+            ],
+            "challengerScores": 10,
+            "opponentScores": 8,
+            "seqNo": 6
+        },
+        {
+            "id": 615005,
+            "challengerActions": [
+                { "id": 3676750, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676751, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676752, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676753, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676754, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676755, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "challengerScores": 8,
+            "opponentScores": 12,
+            "seqNo": 7
+        },
+        {
+            "id": 615006,
+            "challengerActions": [
+                { "id": 3676756, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676757, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676758, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676759, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676760, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676761, "attackArea": "belly", "isAttack": 0 }
+            ],
+            "challengerScores": 8,
+            "opponentScores": 14,
+            "seqNo": 8
+        },
+        {
+            "id": 615007,
+            "challengerActions": [
+                { "id": 3676762, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676763, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676764, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676765, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676766, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676767, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "challengerScores": 6,
+            "opponentScores": 0,
+            "seqNo": 9
+        },
+        {
+            "id": 615008,
+            "challengerActions": [
+                { "id": 3676768, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676769, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676770, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676771, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676772, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676773, "attackArea": "belly", "isAttack": 0 }
+            ],
+            "challengerScores": 10,
+            "opponentScores": 12,
+            "seqNo": 10
+        },
+        {
+            "id": 615009,
+            "challengerActions": [
+                { "id": 3676774, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676775, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676776, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676777, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676778, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676779, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "challengerScores": 16,
+            "opponentScores": 12,
+            "seqNo": 11
+        },
+        {
+            "id": 615010,
+            "challengerActions": [
+                { "id": 3676780, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676781, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676782, "attackArea": "belly", "isAttack": 1 }
+            ],
+            "opponentActions": [
+                { "id": 3676783, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676784, "attackArea": "jaw", "isAttack": 1 },
+                { "id": 3676785, "attackArea": "nose", "isAttack": 0 }
+            ],
+            "challengerScores": 12,
+            "opponentScores": 14,
+            "seqNo": 12
+        },
+        {
+            "id": 615011,
+            "challengerActions": [
+                { "id": 3676786, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676787, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676788, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "opponentActions": [
+                { "id": 3676789, "attackArea": "nose", "isAttack": 1 },
+                { "id": 3676790, "attackArea": "belly", "isAttack": 1 },
+                { "id": 3676791, "attackArea": "jaw", "isAttack": 0 }
+            ],
+            "challengerScores": 12,
+            "opponentScores": 16,
+            "seqNo": 13
+        }
+    ],
+    "challengerScores": 138,
+    "opponentScores": 138,
+    "_embedded": {
+        "challenger": {
+            "id": 891,
+            "name": "Test Rt",
+            "isDeleted": false,
+            "language": "js",
+            "rating": 1145,
+            "stats": { "fightsWon": 33, "fightsLost": 36, "fightsDraw": 4 },
+            "avatarCode": "2",
+            "autoAccept": false,
+            "curtainsMode": false,
+            "isValid": true,
+            "isBoss": false,
+            "status": 3,
+            "fighterFile": "MyFighter.js",
+            "fighterVersion": 16,
+            "_links": {
+                "self": { "href": "https://codefights.net/api/fighters/891" }
+            }
+        },
+        "opponent": {
+            "id": 907,
+            "name": "Steel",
+            "isDeleted": false,
+            "language": "py",
+            "rating": 1151,
+            "stats": { "fightsWon": 24, "fightsLost": 15, "fightsDraw": 3 },
+            "avatarCode": "3",
+            "autoAccept": true,
+            "curtainsMode": false,
+            "isValid": true,
+            "isBoss": false,
+            "status": 3,
+            "fighterFile": "Steel.py",
+            "fighterVersion": 3,
+            "_links": {
+                "self": { "href": "https://codefights.net/api/fighters/907" }
+            }
+        }
+    },
+    "_links": { "self": { "href": "https://codefights.net/api/fights/38443" } }
+}
